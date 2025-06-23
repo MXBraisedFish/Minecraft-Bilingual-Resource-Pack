@@ -15,3 +15,7 @@ If the text is too long, some content might overflow the text box.
 
 ## Disclaimer
 All text is sourced from the original game. Any errors in the content are due to the original game. If you notice any formatting issues (e.g., duplicate content), please let me know, and I will correct them as soon as possible.
+
+## Credits
+Bilibili 闷香红烧鱼(Produced by / Made by) https://space.bilibili.com/609170202
+Bilibili Skysourse-天源(Checked by / QA by) https://space.bilibili.com/391475097
